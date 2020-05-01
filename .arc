@@ -2,6 +2,7 @@
 begin-app
 
 @http
+get /playground
 post /graphql
 
 @tables
